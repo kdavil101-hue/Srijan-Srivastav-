@@ -8,7 +8,7 @@
 </head>
 <body>
   <div class="profile-card">
-    <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Profile Photo" class="profile-photo" />
+    <img src="https://gothic-harlequin-u90e07txsr.edgeone.app/OIP.jpg" class="profile-photo" />
     <h1 id="name">SRIJAN SRIVASTAV</h1>
     <p id="bio">Web Developer & Designer. Passionate about creating interactive user experiences.</p>
     <div class="contact-info">
