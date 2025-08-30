@@ -9,10 +9,10 @@
 <body>
   <div class="profile-card">
     <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Profile Photo" class="profile-photo" />
-    <h1 id="name">John Doe</h1>
+    <h1 id="name">SRIJAN SRIVASTAV</h1>
     <p id="bio">Web Developer & Designer. Passionate about creating interactive user experiences.</p>
     <div class="contact-info">
-      <p><strong>Email:</strong> john.doe@example.com</p>
+      <p><strong>Email:</strong> srijan srivastav@example.com</p>
       <p><strong>Phone:</strong> +1 234 567 8900</p>
     </div>
 
